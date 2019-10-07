@@ -18,3 +18,5 @@ Dataset source: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 ### We use two model:
   1. Linear Regression
   2. Logistic Regression
+
+The output of the regresion is the quality of the wine
